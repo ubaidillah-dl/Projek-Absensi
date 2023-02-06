@@ -1,5 +1,5 @@
 <?php 
-	$conn = mysqli_connect("localhost", "root", "", "absen");
+	$conn = mysqli_connect("localhost", "wwwgresi_absensi", "YOKkk3zeYo3A", "wwwgresi_absensi");
 	
     function query($query){
         global $conn;
