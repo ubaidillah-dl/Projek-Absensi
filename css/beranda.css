@@ -1,0 +1,21 @@
+body {
+  font-size: 14px;
+}
+
+tr {
+  border-radius: 5px;
+}
+
+td:first-child,
+th:first-child {
+  border-radius: 5px 0 0 5px;
+}
+
+td:last-child,
+th:last-child {
+  border-radius: 0 5px 5px 0;
+}
+
+table tr:nth-child(even) {
+  background: rgba(41, 97, 174, 0.1);
+}
