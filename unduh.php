@@ -46,7 +46,7 @@
 
                                                         Kode = '$kode' AND 
                                                         MONTH(Tanggal) = MONTH('$bulan') AND 
-                                                        YEAR(Tanggal) = '$tahun' ORDER BY Tanggal DESC
+                                                        YEAR(Tanggal) = '$tahun' ORDER BY Tanggal ASC
                         ");
         foreach ($laporan as $rows) {
             $nama = $rows["Nama"];
@@ -162,7 +162,7 @@
 
                                                         Kode = '$kode' AND 
                                                         MONTH(Tanggal) = MONTH('$bulan') AND 
-                                                        YEAR(Tanggal) = '$tahun' ORDER BY Tanggal DESC
+                                                        YEAR(Tanggal) = '$tahun' ORDER BY Tanggal ASC
                         ");
         foreach ($laporan as $row) {
             $nama = $row["Nama"];
