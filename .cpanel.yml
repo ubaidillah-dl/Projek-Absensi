@@ -12,7 +12,7 @@ deployment:
     # - /bin/cp -R css $DEPLOYPATH
     # - /bin/cp -R js $DEPLOYPATH
     # - /bin/cp -R sql $DEPLOYPATH
-    # - /bin/cp -R vendor $DEPLOYPATH
+    - /bin/cp -R vendor $DEPLOYPATH
     - /bin/cp absen.php $DEPLOYPATH
     - /bin/cp admin.php $DEPLOYPATH
     - /bin/cp beranda.php $DEPLOYPATH
