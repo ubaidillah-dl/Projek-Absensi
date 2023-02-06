@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/wwwgresi/public_html/absensi/
-    # -/bin/cp -R * $DEPLOYPATH
+    -/bin/cp -R * $DEPLOYPATH
     # - /bin/cp .git $DEPLOYPATH
     # - /bin/cp -R assets $DEPLOYPATH
     # - /bin/cp -R backup $DEPLOYPATH
@@ -15,7 +15,7 @@ deployment:
     # - /bin/cp -R vendor $DEPLOYPATH
     # - /bin/cp absen.php $DEPLOYPATH
     # - /bin/cp admin.php $DEPLOYPATH
-    - /bin/cp beranda.php $DEPLOYPATH
+    # - /bin/cp beranda.php $DEPLOYPATH
     # - /bin/cp composer.json $DEPLOYPATH
     # - /bin/cp composer.lock $DEPLOYPATH
     # - /bin/cp karyawan.php $DEPLOYPATH
