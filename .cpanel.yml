@@ -2,30 +2,30 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/wwwgresi/public_html/absensi/
-    # -/bin/cp -R * $DEPLOYPATH
-    - /bin/cp .git $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R backup $DEPLOYPATH
-    - /bin/cp -R confadmin $DEPLOYPATH
-    - /bin/cp -R confkaryawan $DEPLOYPATH
-    - /bin/cp -R confsuperadmin $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp -R sql $DEPLOYPATH
-    - /bin/cp -R vendor $DEPLOYPATH
-    - /bin/cp absen.php $DEPLOYPATH
-    - /bin/cp admin.php $DEPLOYPATH
-    - /bin/cp beranda.php $DEPLOYPATH
-    - /bin/cp composer.json $DEPLOYPATH
-    - /bin/cp composer.lock $DEPLOYPATH
-    - /bin/cp karyawan.php $DEPLOYPATH
-    - /bin/cp keluar.php $DEPLOYPATH
-    - /bin/cp keterangan.php $DEPLOYPATH
-    - /bin/cp konek.php $DEPLOYPATH
-    - /bin/cp konversi_bulan.php $DEPLOYPATH
-    - /bin/cp LICENSE.md $DEPLOYPATH
-    - /bin/cp masuk.php $DEPLOYPATH
-    - /bin/cp README.md $DEPLOYPATH
-    - /bin/cp rekap.php $DEPLOYPATH
-    - /bin/cp rekapa.php $DEPLOYPATH
-    - /bin/cp unduh.php $DEPLOYPATH
+    -/bin/cp -R * $DEPLOYPATH
+    # - /bin/cp .git $DEPLOYPATH
+    # - /bin/cp -R assets $DEPLOYPATH
+    # - /bin/cp -R backup $DEPLOYPATH
+    # - /bin/cp -R confadmin $DEPLOYPATH
+    # - /bin/cp -R confkaryawan $DEPLOYPATH
+    # - /bin/cp -R confsuperadmin $DEPLOYPATH
+    # - /bin/cp -R css $DEPLOYPATH
+    # - /bin/cp -R js $DEPLOYPATH
+    # - /bin/cp -R sql $DEPLOYPATH
+    # - /bin/cp -R vendor $DEPLOYPATH
+    # - /bin/cp absen.php $DEPLOYPATH
+    # - /bin/cp admin.php $DEPLOYPATH
+    # - /bin/cp beranda.php $DEPLOYPATH
+    # - /bin/cp composer.json $DEPLOYPATH
+    # - /bin/cp composer.lock $DEPLOYPATH
+    # - /bin/cp karyawan.php $DEPLOYPATH
+    # - /bin/cp keluar.php $DEPLOYPATH
+    # - /bin/cp keterangan.php $DEPLOYPATH
+    # - /bin/cp konek.php $DEPLOYPATH
+    # - /bin/cp konversi_bulan.php $DEPLOYPATH
+    # - /bin/cp LICENSE.md $DEPLOYPATH
+    # - /bin/cp masuk.php $DEPLOYPATH
+    # - /bin/cp README.md $DEPLOYPATH
+    # - /bin/cp rekap.php $DEPLOYPATH
+    # - /bin/cp rekapa.php $DEPLOYPATH
+    # - /bin/cp unduh.php $DEPLOYPATH
