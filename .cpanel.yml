@@ -4,9 +4,9 @@ deployment:
     - export DEPLOYPATH=/home/wwwgresi/public_html/absensi/
     # -/bin/cp -R * $DEPLOYPATH
     # - /bin/cp .git $DEPLOYPATH
-    # - /bin/cp -R assets $DEPLOYPATH
-    # - /bin/cp -R backup $DEPLOYPATH
-    # - /bin/cp -R confadmin $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R backup $DEPLOYPATH
+    - /bin/cp -R confadmin $DEPLOYPATH
     - /bin/cp -R confkaryawan $DEPLOYPATH
     - /bin/cp -R confsuperadmin $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
