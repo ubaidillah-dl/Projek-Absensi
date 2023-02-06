@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/wwwgresi/public_html/absensi
+    - export DEPLOYPATH=/home/wwwgresi/public_html/absensi/
     - /bin/cp .git $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R backup $DEPLOYPATH
