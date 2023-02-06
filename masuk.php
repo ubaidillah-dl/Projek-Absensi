@@ -195,7 +195,7 @@
                     <div class="col">
                         <div class="text-center">
                             <a target="_blank" style="text-decoration: none; color:rgba(41,97,174,1);"
-                                href="confadmin/daftar_admin.php">Admin
+                                href="/confadmin/daftar_admin.php">Admin
                                 baru ?</a>
                         </div>
                     </div>
