@@ -7,9 +7,9 @@ deployment:
     # - /bin/cp -R assets $DEPLOYPATH
     # - /bin/cp -R backup $DEPLOYPATH
     # - /bin/cp -R confadmin $DEPLOYPATH
-    # - /bin/cp -R confkaryawan $DEPLOYPATH
-    # - /bin/cp -R confsuperadmin $DEPLOYPATH
-    # - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R confkaryawan $DEPLOYPATH
+    - /bin/cp -R confsuperadmin $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R sql $DEPLOYPATH
     - /bin/cp -R vendor $DEPLOYPATH
