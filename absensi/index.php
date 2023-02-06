@@ -1,3 +1,3 @@
 <?php 
-header("location:masuk.php");
+header("location:./masuk.php");
 ?>
