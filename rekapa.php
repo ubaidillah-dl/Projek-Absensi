@@ -202,7 +202,7 @@
                                                 <!-- akhir header -->
 
                                                 <!-- input -->
-                                                <form action="unduh.php" method="post">
+                                                <form action="unduha.php" method="post">
                                                     <input type="hidden" name="kode" value="<?= $row["Kode"]?>">
                                                     <div class="container">
                                                         <div class="row mt-3">
