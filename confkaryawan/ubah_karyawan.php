@@ -107,7 +107,7 @@
                     <div class="col d-flex justify-content-center align-items-center">
                         <div class="w-100">
                             <input class="shadow-sm form-control rounded-0 rounded-bottom text-center border"
-                                type="text" maxlength="16" name="nik" value="<?= $karyawan["NIK"]; ?>" id="nik"
+                                type="text" maxlength="20" name="nik" value="<?= $karyawan["NIK"]; ?>" id="nik"
                                 placeholder="NIK" aria-label=".form-control-sm example">
                         </div>
                     </div>

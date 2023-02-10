@@ -98,7 +98,7 @@
                     <div class="col d-flex justify-content-center align-items-center">
                         <div class="w-100">
                             <input class="shadow-sm form-control rounded-0 border-bottom-0 text-center border"
-                                type="text" maxlength="16" name="nik" id="nik" placeholder="NIK"
+                                type="text" maxlength="20" name="nik" id="nik" placeholder="NIK"
                                 value="<?= $admin["NIK"]; ?>" aria-label=" .form-control-sm example">
                         </div>
                     </div>
