@@ -173,7 +173,7 @@
                             <button type="submit" name="masuks"
                                 class=" shadow-sm btn-sm btn rounded fw-normal text-white px-2" data-bs-toggle="modal"
                                 data-bs-target="#exampleModalCentered"
-                                style="background-color: rgba(41,97,174,1); width:70px;">
+                                style="background-color: rgba(41,97,174,1); width:80px;">
                                 S Admin
                             </button>
                         </div>
@@ -183,7 +183,7 @@
                             <button type="submit" name="masuk"
                                 class=" shadow-sm btn-sm btn rounded fw-normal text-white px-2" data-bs-toggle="modal"
                                 data-bs-target="#exampleModalCentered"
-                                style="background-color: rgba(41,97,174,1); width:70px;">
+                                style="background-color: rgba(41,97,174,1); width:80px;">
                                 Admin
                             </button>
                         </div>
