@@ -7,7 +7,7 @@
     $jampulang = $row["Pulang"]; 
     $jammasuk = "08:00:00";
     $statusjammasuk = "08:00:00";
-    $jamkeluar = "17:00:00";
+    $jamkeluar = "16:00:00";
 
     // cek ada yang izin atau tidak
     if ($jamdatang == "00:00:00" && $jampulang == "00:00:00") {
