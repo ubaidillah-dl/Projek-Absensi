@@ -191,12 +191,20 @@
                 </div>
                 <!-- akhir tombol -->
 
-                <div class="row mt-5">
+                <div class="row mt-5 mb-3">
                     <div class="col">
                         <div class="text-center">
                             <a target="_blank" style="text-decoration: none; color:rgba(41,97,174,1);"
                                 href="/confadmin/daftar_admin.php">Admin
                                 baru ?</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-5">
+                    <div class="col">
+                        <div class="text-center" style="font-size: 0.7em;">
+                            <p class="mt-5 mb-3 text-muted">&copy; 2023 Teknik Mekatronika (UTM) - v1.1</p>
                         </div>
                     </div>
                 </div>

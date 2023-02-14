@@ -147,7 +147,7 @@
                 <!-- akhir notif -->
 
                 <!-- tombol -->
-                <div class="row">
+                <div class="row mb-3">
                     <div class="col">
                         <div class=" d-flex justify-content-center align-align-items-center ">
                             <button type="submit" name="ubah"
@@ -160,6 +160,14 @@
                     </div>
                 </div>
                 <!-- akhir tombol -->
+
+                <div class="row mt-5">
+                    <div class="col">
+                        <div class="text-center" style="font-size: 0.7em;">
+                            <p class="mt-5 mb-3 text-muted">&copy; 2023 Teknik Mekatronika (UTM) - v1.1</p>
+                        </div>
+                    </div>
+                </div>
 
             </form>
         </div>
