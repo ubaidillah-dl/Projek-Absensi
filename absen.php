@@ -318,7 +318,7 @@
 
                 <div class="row mt-8">
                     <div class="col">
-                        <div class="text-center" style="font-size: 7em;">
+                        <div class="text-center" style="font-size: 1em;">
                             <p class="mt-5 mb-3 text-muted">&copy; 2023 Teknik Mekatronika (UTM) - v1.1</p>
                         </div>
                     </div>
