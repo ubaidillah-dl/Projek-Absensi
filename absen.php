@@ -316,6 +316,14 @@
                     </div>
                 </div>
 
+                <div class="row mt-8">
+                    <div class="col">
+                        <div class="text-center">
+                            <p class="mt-5 mb-3 text-muted">&copy; Teknik Mekatronika</p>
+                        </div>
+                    </div>
+                </div>
+
             </form>
         </div>
     </div>
